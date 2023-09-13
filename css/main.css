@@ -165,10 +165,10 @@ iframe {
 }
 /* footer */
 footer {
-    background: #000;
+    background: #4c9700;
     padding: 30px;
     text-align: center;
-    color: #fff;
+    color: #000000;
 }
 
 @media(max-width: 768px) {
